@@ -1,6 +1,4 @@
 Learn Python
 Have fun
 buy groceries
-fix
-help
-get help
+clean
