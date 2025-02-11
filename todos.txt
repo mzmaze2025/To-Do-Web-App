@@ -1,4 +1,6 @@
-Learn Python
 Have fun
 buy groceries
-clean
+learn Python
+practice Python coding
+cook
+
